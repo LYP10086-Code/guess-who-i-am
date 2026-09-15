@@ -188,3 +188,5 @@ python code.py
 
 ---
 
+## 🙏 致谢
+- [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 
